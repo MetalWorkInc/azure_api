@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CSharpPOC001.Api/CSharpPOC001.Api.csproj" />
+    <Project Path="src/CSharpPOC001.Domain/CSharpPOC001.Domain.csproj" />
+    <Project Path="src/CSharpPOC001.Services/CSharpPOC001.Services.csproj" />
+    <Project Path="src/CSharpPOC001.DAL/CSharpPOC001.DAL.csproj" />
+    <Project Path="src/CSharpPOC001.Integration/CSharpPOC001.Integration.csproj" />
+    <Project Path="src/CSharpPOC001.Tests/CSharpPOC001.Tests.csproj" />
+  </Folder>
+</Solution>

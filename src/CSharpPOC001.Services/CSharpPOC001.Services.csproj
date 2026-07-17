@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CSharpPOC001.Domain\CSharpPOC001.Domain.csproj" />
+    <ProjectReference Include="..\CSharpPOC001.DAL\CSharpPOC001.DAL.csproj" />
+    <ProjectReference Include="..\CSharpPOC001.Integration\CSharpPOC001.Integration.csproj" />
+  </ItemGroup>
+
+</Project>
